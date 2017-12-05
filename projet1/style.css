@@ -6,34 +6,27 @@
 nav
 {
     display: inline-block;
-    width: 800px;
-    text-align: left;
 }
 
 nav ul
 {
     list-style-type: none;
+    text-align: center;
 }
 
 nav li
 {
-    display: inline-block;
-    margin-right: 15px;
+	display: inline;
+	list-style: none;
+	padding-right: 20px;
 }
-
-nav a
+ul
 {
-    font-size: 1.3em;
-    color: #181818;
-    padding-bottom: 3px;
-    text-decoration: none;
-
+	text-align: center;
 }
-.bolcktext
+.page-header
 {
-	margin-left: auto;
-    margin-right: auto;
-    width: 50em;
+	border-bottom: 20px black;
 }
 
 	
