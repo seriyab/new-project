@@ -5,14 +5,20 @@
 
 nav
 {
-    display: inline-block;
+    text-align: center;
+    border-top: 1px solid #333;
+    border-bottom: 1px solid #333;
+    padding-top: 12px;
+    padding-bottom:8px; 
 }
+
 
 nav ul
 {
     list-style-type: none;
     text-align: center;
 }
+    
 
 nav li
 {
@@ -26,7 +32,8 @@ ul
 }
 .page-header
 {
-	border-bottom: 20px black;
+	border: 0px;
+	padding-bottom: 11px;
 }
 
 	
