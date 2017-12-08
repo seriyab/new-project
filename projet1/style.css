@@ -39,6 +39,29 @@ ul
 {
 	height: 300px;
 }
+.image
+{
+	height: 250px;
+	width: 180px;
+}
+.owl-carousel
+{
+	padding-top:10px; 
+}
+.container
+{
+	padding-top: 30px;
+}
+.paragraph1
+{
+	
+	text-align: center;
+}
+.paragraph2
+{
+	
+	text-align: center;
+}
 
 
 
