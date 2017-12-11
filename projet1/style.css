@@ -57,12 +57,19 @@ ul
 	
 	text-align: center;
 }
-.paragraph2
+.baground-color
 {
-	
-	text-align: center;
+	background-color: grey;
 }
-
+.pied-page
+{
+	background-color: black;
+	color: white;
+}
+.image1
+{
+	height: 30px;
+}
 
 
 	
